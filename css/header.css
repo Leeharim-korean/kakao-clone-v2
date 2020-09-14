@@ -16,7 +16,6 @@
 
 .header .header__header-column {
   display: flex;
-  align-content: center;
 }
 
 .header .header__back-btn {
